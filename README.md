@@ -18,6 +18,7 @@ It produces the following charts:
 1. **Temperature**
 2. **Humidity**
 3. **Pressure**
+4. **Altitude**
 
 ## Configuration
 
